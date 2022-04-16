@@ -2086,23 +2086,46 @@
 2 _FNA NO
 1 FAMC @F192@
 0 @I193@ INDI
-1 NAME Martin/MURET/
-2 GIVN Martin
+1 NAME Marty/MURET/
+2 GIVN Marty
 2 SURN MURET
 1 SEX M
 1 OCCU cultivateur metayer
 1 _FIL LEGITIMATE_CHILD
 1 CHAN 
-2 DATE 15 APR 2022
-3 TIME 15:37
+2 DATE 16 APR 2022
+3 TIME 15:51
 1 FAMS @F188@
+1 FAMS @F194@
+1 NAME Marty/MOURET/
+2 GIVN Marty
+2 SURN MOURET
+2 TYPE AKA
 1 BIRT 
-2 DATE ABT 1809
+2 DATE 25 OCT 1806
+2 PLAC Lalinde,24223,Dordogne,Nouvelle Aquitaine,FRANCE,maison rouge
+3 MAP 
+4 LATI 44.836210
+4 LONG 0.730750
 2 _FNA NO
+2 SOUR @S195@
+3 QUAY 3
+3 _QUAL 
+4 _SOUR O
+4 _INFO P
+4 _EVID D
+2 NOTE 10/6/1807 pontours 24334
 1 DEAT 
-2 DATE AFT 1866
+2 DATE 10 SEP 1870
+2 PLAC Lalinde,24223,Dordogne,Nouvelle Aquitaine,FRANCE,Pouroutou
+3 MAP 
+4 LATI 44.836210
+4 LONG 0.730750
 2 _FNA NO
-0 @I194@ INDI
+2 AGE 66
+2 NOTE 10/9/1870 Lalinde
+1 FAMC @F196@
+0 @I197@ INDI
 1 NAME Marie/LAFON/
 2 GIVN Marie
 2 SURN LAFON
@@ -2110,13 +2133,28 @@
 1 OCCU cultivateur metayer
 1 _FIL LEGITIMATE_CHILD
 1 CHAN 
-2 DATE 15 APR 2022
-3 TIME 15:37
+2 DATE 16 APR 2022
+3 TIME 15:46
 1 FAMS @F188@
+1 BIRT 
+2 DATE CAL 1806
+2 PLAC St Caprais,,,,,
+2 _FNA NO
 1 DEAT 
 2 DATE 4 OCT 1846
+2 PLAC Lalinde,24223,Dordogne,Nouvelle Aquitaine,FRANCE,
+3 MAP 
+4 LATI 44.836210
+4 LONG 0.730750
 2 _FNA NO
-0 @I195@ INDI
+2 AGE 40
+2 SOUR @S198@
+3 QUAY 3
+3 _QUAL 
+4 _SOUR O
+4 _INFO P
+4 _EVID D
+0 @I199@ INDI
 1 NAME Pierre/SABOURET/
 2 GIVN Pierre
 2 SURN SABOURET
@@ -2130,8 +2168,8 @@
 2 DATE ABT 1794
 2 _FNA NO
 1 NOTE Geneanet @laetitiaa64
-1 FAMC @F196@
-0 @I197@ INDI
+1 FAMC @F200@
+0 @I201@ INDI
 1 NAME Elisabeth/BARRAUD/
 2 GIVN Elisabeth
 2 SURN BARRAUD
@@ -2149,8 +2187,8 @@
 4 LONG 0.890240
 2 _FNA YES
 1 NOTE Geneanet @laetitiaa64
-1 FAMC @F198@
-0 @I199@ INDI
+1 FAMC @F202@
+0 @I203@ INDI
 1 NAME Pierre/DUMONTEIL/
 2 GIVN Pierre
 2 SURN DUMONTEIL
@@ -2177,7 +2215,7 @@
 2 _FNA YES
 2 NOTE Geneanet @laetitiaa64
 1 NOTE Geneanet @laetitiaa64
-0 @I200@ INDI
+0 @I204@ INDI
 1 NAME Elisabeth/MAUREL/
 2 GIVN Elisabeth
 2 SURN MAUREL
@@ -2204,8 +2242,8 @@
 2 _FNA YES
 2 NOTE Geneanet @laetitiaa64
 1 NOTE Geneanet @laetitiaa64
-1 FAMC @F201@
-0 @I202@ INDI
+1 FAMC @F205@
+0 @I206@ INDI
 1 NAME Guillaume/MAUREL/
 2 GIVN Guillaume
 2 SURN MAUREL
@@ -2214,9 +2252,9 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 16:15
-1 FAMS @F201@
+1 FAMS @F205@
 1 NOTE Geneanet @laetitiaa64
-0 @I203@ INDI
+0 @I207@ INDI
 1 NAME Simone/MONSIAT/
 2 GIVN Simone
 2 SURN MONSIAT
@@ -2225,9 +2263,9 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 16:15
-1 FAMS @F201@
+1 FAMS @F205@
 1 NOTE Geneanet @laetitiaa64
-0 @I204@ INDI
+0 @I208@ INDI
 1 NAME Guillaume/BARRAUD/
 2 GIVN Guillaume
 2 SURN BARRAUD
@@ -2236,9 +2274,9 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 16:19
-1 FAMS @F198@
+1 FAMS @F202@
 1 NOTE Geneanet @laetitiaa64
-0 @I205@ INDI
+0 @I209@ INDI
 1 NAME Marguerite/LYMERY/
 2 GIVN Marguerite
 2 SURN LYMERY
@@ -2247,9 +2285,9 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 16:19
-1 FAMS @F198@
+1 FAMS @F202@
 1 NOTE Geneanet @laetitiaa64
-0 @I206@ INDI
+0 @I210@ INDI
 1 NAME Jean/SABOURET/
 2 GIVN Jean
 2 SURN SABOURET
@@ -2258,9 +2296,9 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 16:19
-1 FAMS @F196@
+1 FAMS @F200@
 1 NOTE Geneanet @laetitiaa64
-0 @I207@ INDI
+0 @I211@ INDI
 1 NAME Antoinette/PAUTY/
 2 GIVN Antoinette
 2 SURN PAUTY
@@ -2269,9 +2307,9 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 16:20
-1 FAMS @F196@
+1 FAMS @F200@
 1 NOTE Geneanet @laetitiaa64
-0 @I208@ INDI
+0 @I212@ INDI
 1 NAME Pierre/BRETOU/
 2 GIVN Pierre
 2 SURN BRETOU
@@ -2289,7 +2327,7 @@
 2 DATE BEF 1826
 2 _FNA NO
 1 NOTE Geneanet @laetitiaa64
-0 @I209@ INDI
+0 @I213@ INDI
 1 NAME Anne/FERRIER/
 2 GIVN Anne
 2 SURN FERRIER
@@ -2308,7 +2346,7 @@
 2 _FNA YES
 2 NOTE Geneanet @laetitiaa64
 1 NOTE Geneanet @laetitiaa64
-0 @I210@ INDI
+0 @I214@ INDI
 1 NAME Raymond/FOULQUIER/
 2 GIVN Raymond
 2 SURN FOULQUIER
@@ -2335,7 +2373,7 @@
 2 _FNA YES
 2 NOTE Geneanet @laetitiaa64
 1 NOTE Geneanet @laetitiaa64
-0 @I211@ INDI
+0 @I215@ INDI
 1 NAME Marguerite/VEYSSI/
 2 GIVN Marguerite
 2 SURN VEYSSI
@@ -2346,7 +2384,7 @@
 3 TIME 17:15
 1 FAMS @F167@
 1 NOTE Geneanet @laetitiaa64
-0 @I212@ INDI
+0 @I216@ INDI
 1 NAME Jean/COUDERT/
 2 GIVN Jean
 2 SURN COUDERT
@@ -2372,14 +2410,14 @@
 4 LONG 1.513370
 2 _FNA NO
 2 AGE 48
-2 SOUR @S213@
+2 SOUR @S217@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
 4 _INFO P
 4 _EVID D
-1 FAMC @F214@
-0 @I215@ INDI
+1 FAMC @F218@
+0 @I219@ INDI
 1 NAME Jeanne/COSTE/
 2 GIVN Jeanne
 2 SURN COSTE
@@ -2401,7 +2439,7 @@
 4 LATI 45.193890
 4 LONG 1.513370
 2 _FNA NO
-2 SOUR @S216@
+2 SOUR @S220@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2411,8 +2449,8 @@
 2 CONT et en marge de l'acte de Mariage, une note la notifiant comme sans aieul ni aieules
 2 CONT Et effectivement aucune naissance COSTE Jeanne correspondant avec les parents indiqués dans les actes entre 1833 et 1840
 2 CONT 
-1 FAMC @F217@
-0 @I218@ INDI
+1 FAMC @F221@
+0 @I222@ INDI
 1 NAME Bernard/COUDERT/
 2 GIVN Bernard
 2 SURN COUDERT
@@ -2421,7 +2459,7 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 17:59
-1 FAMS @F214@
+1 FAMS @F218@
 1 DEAT 
 2 DATE 15 APR 1834
 2 PLAC Ussac,19274,Correze,Nouvelle Aquitaine,FRANCE,Serogne
@@ -2429,7 +2467,7 @@
 4 LATI 45.193890
 4 LONG 1.513370
 2 _FNA NO
-0 @I219@ INDI
+0 @I223@ INDI
 1 NAME Marguerite/LARUE/
 2 GIVN Marguerite
 2 SURN LARUE
@@ -2438,11 +2476,11 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 17:59
-1 FAMS @F214@
+1 FAMS @F218@
 1 DEAT 
 2 DATE AFT 1866
 2 _FNA NO
-0 @I220@ INDI
+0 @I224@ INDI
 1 NAME Antoine/COSTE/
 2 GIVN Antoine
 2 SURN COSTE
@@ -2451,7 +2489,7 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 18:51
-1 FAMS @F217@
+1 FAMS @F221@
 1 BIRT 
 2 DATE CAL 1786
 2 _FNA NO
@@ -2460,13 +2498,13 @@
 2 PLAC Beynat,19023,Correze,Nouvelle Aquitaine,FRANCE,Fontourey
 2 _FNA NO
 2 AGE 62
-2 SOUR @S221@
+2 SOUR @S225@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
 4 _INFO P
 4 _EVID D
-0 @I222@ INDI
+0 @I226@ INDI
 1 NAME Jeanne/TARIF/
 2 GIVN Jeanne
 2 SURN TARIF
@@ -2475,12 +2513,12 @@
 1 CHAN 
 2 DATE 15 APR 2022
 3 TIME 18:51
-1 FAMS @F217@
+1 FAMS @F221@
 1 DEAT 
 2 DATE 4 OCT 1869
 2 PLAC Beynat,19023,Correze,Nouvelle Aquitaine,FRANCE,Fontourey
 2 _FNA NO
-0 @I223@ INDI
+0 @I227@ INDI
 1 NAME Antoine/BRAMON/
 2 GIVN Antoine
 2 SURN BRAMON
@@ -2497,7 +2535,7 @@
 4 LATI 45.088720
 4 LONG 1.725220
 2 _FNA NO
-0 @I224@ INDI
+0 @I228@ INDI
 1 NAME Marguerite/RAYSSE/
 2 GIVN Marguerite
 2 SURN RAYSSE
@@ -2514,7 +2552,7 @@
 4 LATI 45.088720
 4 LONG 1.725220
 2 _FNA NO
-0 @I225@ INDI
+0 @I229@ INDI
 1 NAME Pierre/MONS/
 2 GIVN Pierre
 2 SURN MONS
@@ -2527,7 +2565,7 @@
 1 DEAT 
 2 DATE BEF 1845
 2 _FNA NO
-0 @I226@ INDI
+0 @I230@ INDI
 1 NAME Jeanne/MOUSSOUR/
 2 GIVN Jeanne
 2 SURN MOUSSOUR
@@ -2541,7 +2579,7 @@
 2 DATE 7 AUG 1829
 2 PLAC Donzenac,19072,Correze,Nouvelle Aquitaine,FRANCE,
 2 _FNA NO
-0 @I227@ INDI
+0 @I231@ INDI
 1 NAME Jeanne/VALADE/
 2 GIVN Jeanne
 2 SURN VALADE
@@ -2554,7 +2592,7 @@
 1 DEAT 
 2 PLAC Donzenac,19072,Correze,Nouvelle Aquitaine,FRANCE,Champagnac
 2 _FNA NO
-0 @I228@ INDI
+0 @I232@ INDI
 1 NAME Jean/LATREILLE/
 2 GIVN Jean
 2 SURN LATREILLE
@@ -2571,7 +2609,7 @@
 4 LATI 45.193890
 4 LONG 1.513370
 2 _FNA NO
-0 @I229@ INDI
+0 @I233@ INDI
 1 NAME Marie/VIGNAL/
 2 GIVN Marie
 2 SURN VIGNAL
@@ -2588,6 +2626,72 @@
 4 LATI 45.193890
 4 LONG 1.513370
 2 _FNA NO
+0 @I234@ INDI
+1 NAME Jeanne/DELCROS/
+2 GIVN Jeanne
+2 SURN DELCROS
+1 SEX F
+1 OCCU cultivatrice
+1 _FIL LEGITIMATE_CHILD
+1 CHAN 
+2 DATE 16 APR 2022
+3 TIME 15:46
+1 FAMS @F194@
+1 BIRT 
+2 DATE 12 SEP 1816
+2 PLAC Liorac,24242,Dordogne,Nouvelle Aquitaine,FRANCE,la pique
+2 _FNA NO
+1 FAMC @F235@
+0 @I236@ INDI
+1 NAME Jean/MURET/
+2 GIVN Jean
+2 SURN MURET
+1 SEX M
+1 OCCU Cultivateur metayer
+1 _FIL LEGITIMATE_CHILD
+1 CHAN 
+2 DATE 16 APR 2022
+3 TIME 15:13
+1 FAMS @F196@
+0 @I237@ INDI
+1 NAME Anne/TREILLOU/
+2 GIVN Anne
+2 SURN TREILLOU
+1 SEX F
+1 _FIL LEGITIMATE_CHILD
+1 CHAN 
+2 DATE 16 APR 2022
+3 TIME 15:20
+1 FAMS @F196@
+1 DEAT 
+2 DATE 12 FEB 1833
+2 PLAC Lalinde,24223,Dordogne,Nouvelle Aquitaine,FRANCE,
+3 MAP 
+4 LATI 44.836210
+4 LONG 0.730750
+2 _FNA NO
+0 @I238@ INDI
+1 NAME Elie/DELCROS/
+2 GIVN Elie
+2 SURN DELCROS
+1 SEX M
+1 OCCU cultivateur metayer
+1 _FIL LEGITIMATE_CHILD
+1 CHAN 
+2 DATE 16 APR 2022
+3 TIME 15:18
+1 FAMS @F235@
+0 @I239@ INDI
+1 NAME Catherine/BEREYNA/
+2 GIVN Catherine
+2 SURN BEREYNA
+1 SEX F
+1 OCCU cultivatrice metayer
+1 _FIL LEGITIMATE_CHILD
+1 CHAN 
+2 DATE 16 APR 2022
+3 TIME 15:17
+1 FAMS @F235@
 0 @F2@ FAM
 1 HUSB @I3@
 1 WIFE @I4@
@@ -2637,7 +2741,7 @@
 3 AGE 24
 2 HUSB 
 3 AGE 23
-2 SOUR @S230@
+2 SOUR @S240@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2675,7 +2779,7 @@
 2 _FNA NO
 2 WIFE 
 3 AGE 24
-2 SOUR @S231@
+2 SOUR @S241@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2710,7 +2814,7 @@
 3 AGE 19
 2 HUSB 
 3 AGE 19
-2 SOUR @S232@
+2 SOUR @S242@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2728,7 +2832,7 @@
 4 LATI 45.229080
 4 LONG 1.198280
 2 _FNA NO
-2 SOUR @S233@
+2 SOUR @S243@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2742,7 +2846,7 @@
 4 LATI 45.229080
 4 LONG 1.198280
 2 _FNA NO
-2 SOUR @S234@
+2 SOUR @S244@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2764,7 +2868,7 @@
 4 LATI 45.259530
 4 LONG 1.148790
 2 _FNA NO
-2 SOUR @S235@
+2 SOUR @S245@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2778,7 +2882,7 @@
 4 LATI 45.259530
 4 LONG 1.148790
 2 _FNA NO
-2 SOUR @S236@
+2 SOUR @S246@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2792,7 +2896,7 @@
 4 LATI 45.259530
 4 LONG 1.148790
 2 _FNA NO
-2 SOUR @S237@
+2 SOUR @S247@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2806,7 +2910,7 @@
 4 LATI 45.259530
 4 LONG 1.148790
 2 _FNA NO
-2 SOUR @S238@
+2 SOUR @S248@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2821,7 +2925,7 @@
 2 DATE 6 JAN 1853
 2 PLAC Cherveix,24120,Dordogne,Nouvelle Aquitaine,FRANCE,
 2 _FNA NO
-2 SOUR @S239@
+2 SOUR @S249@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2858,7 +2962,7 @@
 4 LATI 45.193890
 4 LONG 1.513370
 2 _FNA NO
-2 SOUR @S240@
+2 SOUR @S250@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2881,7 +2985,7 @@
 3 AGE 25
 2 HUSB 
 3 AGE 24
-2 SOUR @S241@
+2 SOUR @S251@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2898,7 +3002,7 @@
 4 LATI 45.259530
 4 LONG 1.148790
 2 _FNA NO
-2 SOUR @S242@
+2 SOUR @S252@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2931,7 +3035,7 @@
 4 LATI 45.259530
 4 LONG 1.148790
 2 _FNA NO
-2 SOUR @S243@
+2 SOUR @S253@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -2952,7 +3056,7 @@
 2 _FNA NO
 2 WIFE 
 3 AGE 20
-2 SOUR @S244@
+2 SOUR @S254@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -3025,7 +3129,7 @@
 3 AGE 17
 2 HUSB 
 3 AGE 28
-2 SOUR @S245@
+2 SOUR @S255@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -3100,7 +3204,7 @@
 4 LATI 45.193890
 4 LONG 1.513370
 2 _FNA YES
-2 SOUR @S246@
+2 SOUR @S256@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -3123,7 +3227,7 @@
 3 AGE 34
 2 HUSB 
 3 AGE 60
-2 SOUR @S247@
+2 SOUR @S257@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -3131,7 +3235,7 @@
 4 _EVID D
 0 @F154@ FAM
 1 HUSB @I153@
-1 WIFE @I227@
+1 WIFE @I231@
 1 _UST MARRIED
 0 @F68@ FAM
 1 HUSB @I160@
@@ -3213,7 +3317,7 @@
 3 AGE 26
 2 HUSB 
 3 AGE 21
-2 SOUR @S248@
+2 SOUR @S258@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
@@ -3234,12 +3338,31 @@
 2 NOTE Geneanet @laetitiaa64
 0 @F188@ FAM
 1 HUSB @I193@
-1 WIFE @I194@
+1 WIFE @I197@
 1 _UST MARRIED
 1 CHIL @I186@
+0 @F194@ FAM
+1 HUSB @I193@
+1 WIFE @I234@
+1 _UST MARRIED
+1 MARR 
+2 DATE 21 FEB 1848
+2 PLAC Lalinde,24223,Dordogne,Nouvelle Aquitaine,FRANCE,
+3 MAP 
+4 LATI 44.836210
+4 LONG 0.730750
+2 _FNA NO
+2 WIFE 
+3 AGE 31
+2 SOUR @S259@
+3 QUAY 3
+3 _QUAL 
+4 _SOUR O
+4 _INFO P
+4 _EVID D
 0 @F190@ FAM
-1 HUSB @I195@
-1 WIFE @I197@
+1 HUSB @I199@
+1 WIFE @I201@
 1 _UST MARRIED
 1 CHIL @I189@
 1 MARR 
@@ -3251,8 +3374,8 @@
 2 _FNA YES
 2 NOTE Geneanet @laetitiaa64
 0 @F192@ FAM
-1 HUSB @I199@
-1 WIFE @I200@
+1 HUSB @I203@
+1 WIFE @I204@
 1 _UST MARRIED
 1 CHIL @I191@
 1 MARR 
@@ -3263,34 +3386,34 @@
 4 LONG 0.859150
 2 _FNA YES
 2 NOTE Geneanet @laetitiaa64
-0 @F201@ FAM
-1 HUSB @I202@
-1 WIFE @I203@
-1 _UST MARRIED
-1 CHIL @I200@
-0 @F198@ FAM
-1 HUSB @I204@
-1 WIFE @I205@
-1 _UST MARRIED
-1 CHIL @I197@
-0 @F196@ FAM
+0 @F205@ FAM
 1 HUSB @I206@
 1 WIFE @I207@
 1 _UST MARRIED
-1 CHIL @I195@
-0 @F165@ FAM
+1 CHIL @I204@
+0 @F202@ FAM
 1 HUSB @I208@
 1 WIFE @I209@
 1 _UST MARRIED
-1 CHIL @I164@
-0 @F167@ FAM
+1 CHIL @I201@
+0 @F200@ FAM
 1 HUSB @I210@
 1 WIFE @I211@
 1 _UST MARRIED
+1 CHIL @I199@
+0 @F165@ FAM
+1 HUSB @I212@
+1 WIFE @I213@
+1 _UST MARRIED
+1 CHIL @I164@
+0 @F167@ FAM
+1 HUSB @I214@
+1 WIFE @I215@
+1 _UST MARRIED
 1 CHIL @I166@
 0 @F66@ FAM
-1 HUSB @I212@
-1 WIFE @I215@
+1 HUSB @I216@
+1 WIFE @I219@
 1 _UST MARRIED
 1 CHIL @I65@
 1 MARR 
@@ -3300,185 +3423,195 @@
 4 LATI 45.193890
 4 LONG 1.513370
 2 _FNA NO
-2 SOUR @S249@
+2 SOUR @S260@
 3 QUAY 3
 3 _QUAL 
 4 _SOUR O
 4 _INFO P
 4 _EVID D
-0 @F214@ FAM
-1 HUSB @I218@
-1 WIFE @I219@
+0 @F218@ FAM
+1 HUSB @I222@
+1 WIFE @I223@
 1 _UST MARRIED
-1 CHIL @I212@
-0 @F217@ FAM
-1 HUSB @I220@
-1 WIFE @I222@
+1 CHIL @I216@
+0 @F221@ FAM
+1 HUSB @I224@
+1 WIFE @I226@
 1 _UST MARRIED
-1 CHIL @I215@
+1 CHIL @I219@
 0 @F152@ FAM
-1 HUSB @I223@
-1 WIFE @I224@
+1 HUSB @I227@
+1 WIFE @I228@
 1 _UST MARRIED
 1 CHIL @I151@
 0 @F156@ FAM
-1 HUSB @I225@
-1 WIFE @I226@
+1 HUSB @I229@
+1 WIFE @I230@
 1 _UST MARRIED
 1 CHIL @I153@
 0 @F158@ FAM
-1 HUSB @I228@
-1 WIFE @I229@
+1 HUSB @I232@
+1 WIFE @I233@
 1 _UST MARRIED
 1 CHIL @I157@
+0 @F196@ FAM
+1 HUSB @I236@
+1 WIFE @I237@
+1 _UST MARRIED
+1 CHIL @I193@
+0 @F235@ FAM
+1 HUSB @I238@
+1 WIFE @I239@
+1 _UST MARRIED
+1 CHIL @I234@
 0 @S14@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N15_RAYNAL_OdetteSimone_1910
 1 TYPE Deed
-1 REPO @R250@
+1 REPO @R261@
 2 CALN 256
 3 MEDI Other
-1 OBJE @O251@
+1 OBJE @O262@
 0 @S17@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N30_REYNAL_René_HAUTEFORT_1885
 1 TYPE Deed
-1 REPO @R252@
+1 REPO @R263@
 2 CALN 
 3 MEDI Other
-1 OBJE @O253@
-1 OBJE @O254@
+1 OBJE @O264@
+1 OBJE @O265@
 0 @S18@ SOUR
 1 QUAY 0
 1 TITL Fiche Militaire
 1 ABBR FM30_RAYNAL_René
 1 TYPE Deed
-1 REPO @R255@
+1 REPO @R266@
 2 CALN 
 3 MEDI Other
-1 OBJE @O256@
+1 OBJE @O267@
 0 @S22@ SOUR
 1 QUAY 0
 1 TITL Acte de naissance
 1 ABBR N31_GOUGUET_MarieLouise_BRIVE_1884
 1 TYPE Deed
-1 REPO @R257@
+1 REPO @R268@
 2 CALN 299
 3 MEDI Other
-1 OBJE @O258@
+1 OBJE @O269@
 0 @S23@ SOUR
 1 QUAY 0
 1 TYPE Deed
 1 REPO 
 2 CALN 
 3 MEDI Other
-1 OBJE @O259@
-1 OBJE @O260@
+1 OBJE @O270@
+1 OBJE @O271@
 0 @S26@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N62_GOUGUET_Francois_VieuxMareuil_1841
 1 TYPE Deed
-1 REPO @R261@
+1 REPO @R272@
 2 CALN 
 3 MEDI Other
-1 OBJE @O262@
-1 OBJE @O263@
+1 OBJE @O273@
+1 OBJE @O274@
 0 @S27@ SOUR
 1 QUAY 0
 1 TITL Acte de décès
 1 ABBR D62_GOUGUET_François_BRIVE_1904
 1 TYPE Deed
-1 REPO @R264@
+1 REPO @R275@
 2 CALN 54
 3 MEDI Other
-1 OBJE @O265@
+1 OBJE @O276@
 0 @S32@ SOUR
 1 QUAY 0
 1 TITL acte de naissance
 1 ABBR N60_RAYNAL_Elie_BADEFOLS_1864
 1 TYPE Deed
-1 REPO @R266@
+1 REPO @R277@
 2 CALN 5
 3 MEDI Other
-1 OBJE @O267@
+1 OBJE @O278@
 0 @S33@ SOUR
 1 QUAY 0
 1 TITL Fiche Militaire
 1 ABBR FM60_RAYNAL_Elie_BRIVE_1884
 1 TYPE Deed
-1 REPO @R268@
+1 REPO @R279@
 2 CALN 
 3 MEDI Other
-1 OBJE @O269@
-1 OBJE @O270@
-1 OBJE @O271@
+1 OBJE @O280@
+1 OBJE @O281@
+1 OBJE @O282@
 0 @S36@ SOUR
 1 QUAY 0
 1 TITL acte de naissance
 1 ABBR N63_RICHETIN_CatherinePhilomene_Vierzon_1843
 1 TYPE Deed
-1 REPO @R272@
+1 REPO @R283@
 2 CALN 
 3 MEDI Other
-1 OBJE @O273@
+1 OBJE @O284@
 0 @S40@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N_REYNAL_EDMOND_1890
 1 TYPE Deed
-1 REPO @R274@
+1 REPO @R285@
 2 CALN 
 3 MEDI Other
-1 OBJE @O275@
+1 OBJE @O286@
 0 @S48@ SOUR
 1 QUAY 0
 1 TITL Acte de Décès
 1 ABBR D122_GERASTRE_Pierre_HAUTEFORT_1889
 1 TYPE Deed
-1 REPO @R276@
+1 REPO @R287@
 2 CALN 16
 3 MEDI Other
-1 OBJE @O277@
-1 OBJE @O278@
+1 OBJE @O288@
+1 OBJE @O289@
 0 @S52@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N61_GERASTRE_Marie_Hautefort_1863
 1 TYPE Deed
-1 REPO @R279@
+1 REPO @R290@
 2 CALN 33
 3 MEDI Other
-1 OBJE @O280@
+1 OBJE @O291@
 0 @S54@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR NSoeur61_GERASTRE_Marie_Hautefort_1873
 1 TYPE Deed
-1 REPO @R281@
+1 REPO @R292@
 2 CALN 
 3 MEDI Other
-1 OBJE @O282@
+1 OBJE @O293@
 0 @S70@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N25_SABOURET_Anne_SainteAlvere_1868
 1 TYPE Deed
-1 REPO @R283@
+1 REPO @R294@
 2 CALN 
 3 MEDI Other
-1 OBJE @O284@
+1 OBJE @O295@
 0 @S74@ SOUR
 1 QUAY 0
 1 TITL Acte de notoriété
 1 ABBR NFrere61_GERASTRE_EDMOND_1868
 1 TYPE Deed
-1 REPO @R285@
+1 REPO @R296@
 2 CALN 
 3 MEDI Other
-1 OBJE @O286@
+1 OBJE @O297@
 0 @S75@ SOUR
 1 QUAY 0
 1 TITL Fiche Militaire
@@ -3487,731 +3620,757 @@
 1 REPO 
 2 CALN 
 3 MEDI Other
-1 OBJE @O287@
+1 OBJE @O298@
 0 @S78@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N_RAYNAL_Marie_1894 - fille de Pauline
 1 TYPE Deed
-1 REPO @R288@
+1 REPO @R299@
 2 CALN 
 3 MEDI Other
-1 OBJE @O289@
+1 OBJE @O300@
 0 @S80@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N_RAYNAL_André_1900 - fils de Pauline
 1 TYPE Deed
-1 REPO @R290@
+1 REPO @R301@
 2 CALN 
 3 MEDI Other
-1 OBJE @O291@
+1 OBJE @O302@
 0 @S84@ SOUR
 1 QUAY 0
 1 TITL Acte de naissance
 1 ABBR N_RAYNAL_Noemie_1892 - fille de Pauline
 1 TYPE Deed
-1 REPO @R292@
+1 REPO @R303@
 2 CALN 
 3 MEDI Other
-1 OBJE @O293@
+1 OBJE @O304@
 0 @S88@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N_RAYNAL_Felix_1896 - fils de Pauline
 1 TYPE Deed
-1 REPO @R294@
+1 REPO @R305@
 2 CALN 
 3 MEDI Other
-1 OBJE @O295@
+1 OBJE @O306@
 0 @S90@ SOUR
 1 QUAY 0
 1 TITL acte de naissance
 1 ABBR N_RAYNAL_Noemie_1898- fille de Pauline
 1 TYPE Deed
-1 REPO @R296@
+1 REPO @R307@
 2 CALN 
 3 MEDI Other
-1 OBJE @O297@
+1 OBJE @O308@
 0 @S91@ SOUR
 1 QUAY 0
 1 TITL acte de décès
 1 ABBR D_RAYNAL_Noemie_1901- fille de pauline
 1 TYPE Deed
-1 REPO @R298@
+1 REPO @R309@
 2 CALN 
 3 MEDI Other
-1 OBJE @O299@
+1 OBJE @O310@
 0 @S93@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N_GERASTRE_Marie_CHERVEIX_1860
 1 TYPE Deed
-1 REPO @R300@
+1 REPO @R311@
 2 CALN 
 3 MEDI Other
-1 OBJE @O301@
-1 OBJE @O302@
+1 OBJE @O312@
+1 OBJE @O313@
 0 @S100@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR NDemiSoeur61_GERASTRE_Marie_1853
 1 TYPE Deed
-1 REPO @R303@
+1 REPO @R314@
 2 CALN 
 3 MEDI Other
-1 OBJE @O304@
-1 OBJE @O305@
+1 OBJE @O315@
+1 OBJE @O316@
 0 @S103@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N124_GOUGUET_François_VieuxMareuil_1817
 1 TYPE Deed
-1 REPO @R306@
+1 REPO @R317@
 2 CALN 
 3 MEDI Other
-1 OBJE @O307@
+1 OBJE @O318@
 0 @S104@ SOUR
 1 QUAY 0
 1 TITL Acte de Décès
 1 ABBR D124_GOUGUET_Francois_VieuxMareuil_1893
 1 TYPE Deed
-1 REPO @R308@
+1 REPO @R319@
 2 CALN 
 3 MEDI Other
-1 OBJE @O309@
+1 OBJE @O320@
 0 @S107@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N125_MATHIEU_Marie_VieuxMareuil_1819
 1 TYPE Deed
-1 REPO @R310@
+1 REPO @R321@
 2 CALN 
 3 MEDI Other
-1 OBJE @O311@
+1 OBJE @O322@
 0 @S108@ SOUR
 1 QUAY 0
 1 TITL Acte de Décès
 1 ABBR D125_MATHIEU_Marie_VieuxMareuil_1879
 1 TYPE Deed
-1 REPO @R312@
+1 REPO @R323@
 2 CALN 
 3 MEDI Other
-1 OBJE @O313@
+1 OBJE @O324@
 0 @S112@ SOUR
 1 QUAY 0
 1 TITL Acte d eNaissance
 1 ABBR NFrere31_GOUGUET_Georges_Vierzon_1870
 1 TYPE Deed
-1 REPO @R314@
+1 REPO @R325@
 2 CALN 
 3 MEDI Other
-1 OBJE @O315@
+1 OBJE @O326@
 0 @S113@ SOUR
 1 QUAY 0
 1 TITL Fiche Militaire
 1 ABBR FMFrere31_GOUGUET_Georges_1890
 1 TYPE Deed
-1 REPO @R316@
+1 REPO @R327@
 2 CALN 
 3 MEDI Other
-1 OBJE @O317@
+1 OBJE @O328@
 0 @S116@ SOUR
 1 QUAY 0
 1 TITL Acte de Décès
 1 ABBR D126_RICHETIN_FrançoisSylvain_Vierzon_1878
 1 TYPE Deed
-1 REPO @R318@
+1 REPO @R329@
 2 CALN 
 3 MEDI Other
-1 OBJE @O319@
+1 OBJE @O330@
 0 @S119@ SOUR
 1 QUAY 0
 1 TITL Acte de décès
 1 ABBR D127_DESROSIERE_Rose_Vierzon_1878
 1 TYPE Deed
-1 REPO @R320@
+1 REPO @R331@
 2 CALN 180
 3 MEDI Other
-1 OBJE @O321@
+1 OBJE @O332@
 0 @S124@ SOUR
 1 QUAY 0
 1 TITL Acte de Bapteme
 1 ABBR N250_MATHIEU_François_Mareuil_1788
 1 TYPE Deed
-1 REPO @R322@
+1 REPO @R333@
 2 CALN 
 3 MEDI Other
-1 OBJE @O323@
+1 OBJE @O334@
 0 @S127@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N251_BEAU_Marie_VieuxMareuil_1799
 1 TYPE Deed
-1 REPO @R324@
+1 REPO @R335@
 2 CALN 
 3 MEDI Other
-1 OBJE @O325@
+1 OBJE @O336@
 0 @S130@ SOUR
 1 QUAY 0
 1 TITL Acte de décès
 1 ABBR D500_MATHIEU_Jean_Mareuil_1798
 1 TYPE Deed
-1 REPO @R326@
+1 REPO @R337@
 2 CALN 
 3 MEDI Other
-1 OBJE @O327@
+1 OBJE @O338@
 0 @S132@ SOUR
 1 QUAY 0
 1 TITL Acte de décès
 1 ABBR D501_BOYER_Marie_Mareuil_1840
 1 TYPE Deed
-1 REPO @R328@
+1 REPO @R339@
 2 CALN 
 3 MEDI Other
-1 OBJE @O329@
+1 OBJE @O340@
 0 @S149@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N52_MONS_Jean_Ussac_1847
 1 TYPE Deed
-1 REPO @R330@
+1 REPO @R341@
 2 CALN 
 3 MEDI Other
-1 OBJE @O331@
+1 OBJE @O342@
 0 @S155@ SOUR
 1 QUAY 0
 1 TITL Acte de Décès
 1 ABBR D104_MONS_Etienne_Ussac_1853
 1 TYPE Deed
-1 REPO @R332@
+1 REPO @R343@
 2 CALN 
 3 MEDI Other
-1 OBJE @O333@
+1 OBJE @O344@
 0 @S183@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N50_SABOURET_Augustin_Paunat_1845
 1 TYPE Deed
-1 REPO @R334@
+1 REPO @R345@
 2 CALN 
 3 MEDI Other
-1 OBJE @O335@
+1 OBJE @O346@
 0 @S184@ SOUR
 1 QUAY 0
 1 TITL Acte de Décès
 1 ABBR D50_SABOURET_Auguste_SainteAvere_1900-1
 1 TYPE Deed
-1 REPO @R336@
+1 REPO @R347@
 2 CALN 
 3 MEDI Other
-1 OBJE @O337@
-1 OBJE @O338@
+1 OBJE @O348@
+1 OBJE @O349@
 0 @S187@ SOUR
 1 QUAY 0
 1 TITL Acte de Naissance
 1 ABBR N51_MURET_Marie_Baneuil_1839
 1 TYPE Deed
-1 REPO @R339@
-2 CALN 
-3 MEDI Other
-1 OBJE @O340@
-0 @S213@ SOUR
-1 QUAY 0
-1 TITL Acte de Décès
-1 ABBR D54_COUDERT_Jean_USSAC_1875
-1 TYPE Deed
-1 REPO @R341@
-2 CALN 28
-3 MEDI Other
-1 OBJE @O342@
-0 @S216@ SOUR
-1 QUAY 0
-1 TITL Acte de décès
-1 ABBR D55_COSTE_Jeanne_USSAC_1899
-1 TYPE Deed
-1 REPO @R343@
-2 CALN 
-3 MEDI Other
-1 OBJE @O344@
-0 @S221@ SOUR
-1 QUAY 0
-1 TITL Acte de décès
-1 ABBR D110_COSTE_antoine_Peyrat_1848
-1 TYPE Deed
-1 REPO @R345@
-2 CALN 
-3 MEDI Other
-1 OBJE @O346@
-0 @S230@ SOUR
-1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M30-31_RAYNAL-René_GOUGUET-MarieLouise_BRIVE_1909
-1 TYPE Deed
-1 REPO @R347@
-2 CALN 68
-3 MEDI Other
-1 OBJE @O348@
-1 OBJE @O349@
-0 @S231@ SOUR
-1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M62_63-GOUGUET_François-RICHETIN_Philomene_1867
-1 TYPE Deed
 1 REPO @R350@
-2 CALN 75
+2 CALN 
 3 MEDI Other
 1 OBJE @O351@
-0 @S232@ SOUR
+0 @S195@ SOUR
 1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M60_61-RAYNAL_Elie-GERASTRE_Marie_Hautefort_1883
+1 TITL Acte de Naissance
+1 ABBR N102-MOURET_Marty-Lalinde-1806
 1 TYPE Deed
 1 REPO @R352@
 2 CALN 
 3 MEDI Other
 1 OBJE @O353@
-0 @S233@ SOUR
+0 @S198@ SOUR
 1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M120-121-RAYNAL_Jean-MALOUBIER-Catherine_Badefols_1856
+1 TITL acte de décès
+1 ABBR D103_LAFON_Marie_Lalinde_1846
 1 TYPE Deed
 1 REPO @R354@
 2 CALN 
 3 MEDI Other
 1 OBJE @O355@
-1 OBJE @O356@
-0 @S234@ SOUR
+0 @S217@ SOUR
+1 QUAY 0
+1 TITL Acte de Décès
+1 ABBR D54_COUDERT_Jean_USSAC_1875
+1 TYPE Deed
+1 REPO @R356@
+2 CALN 28
+3 MEDI Other
+1 OBJE @O357@
+0 @S220@ SOUR
+1 QUAY 0
+1 TITL Acte de décès
+1 ABBR D55_COSTE_Jeanne_USSAC_1899
+1 TYPE Deed
+1 REPO @R358@
+2 CALN 
+3 MEDI Other
+1 OBJE @O359@
+0 @S225@ SOUR
+1 QUAY 0
+1 TITL Acte de décès
+1 ABBR D110_COSTE_antoine_Peyrat_1848
+1 TYPE Deed
+1 REPO @R360@
+2 CALN 
+3 MEDI Other
+1 OBJE @O361@
+0 @S240@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M30-31_RAYNAL-René_GOUGUET-MarieLouise_BRIVE_1909
+1 TYPE Deed
+1 REPO @R362@
+2 CALN 68
+3 MEDI Other
+1 OBJE @O363@
+1 OBJE @O364@
+0 @S241@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M62_63-GOUGUET_François-RICHETIN_Philomene_1867
+1 TYPE Deed
+1 REPO @R365@
+2 CALN 75
+3 MEDI Other
+1 OBJE @O366@
+0 @S242@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M60_61-RAYNAL_Elie-GERASTRE_Marie_Hautefort_1883
+1 TYPE Deed
+1 REPO @R367@
+2 CALN 
+3 MEDI Other
+1 OBJE @O368@
+0 @S243@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M120-121-RAYNAL_Jean-MALOUBIER-Catherine_Badefols_1856
+1 TYPE Deed
+1 REPO @R369@
+2 CALN 
+3 MEDI Other
+1 OBJE @O370@
+1 OBJE @O371@
+0 @S244@ SOUR
 1 QUAY 0
 1 TITL Recensement
 1 ABBR RecensementBADEFOLS_1876_REYNAL
 1 TYPE Deed
-1 REPO @R357@
+1 REPO @R372@
 2 CALN 
 3 MEDI Other
-1 OBJE @O358@
-0 @S235@ SOUR
+1 OBJE @O373@
+0 @S245@ SOUR
 1 QUAY 0
 1 TITL recensement
 1 ABBR RecensementHAUTEFORT_1866_GERASTRE
 1 TYPE Deed
-1 REPO @R359@
+1 REPO @R374@
 2 CALN 
 3 MEDI Other
-1 OBJE @O360@
-0 @S236@ SOUR
+1 OBJE @O375@
+0 @S246@ SOUR
 1 QUAY 0
 1 TITL Recensement
 1 ABBR RecensementHAUTEFORT_1872_GERASTRE
-1 TYPE Deed
-1 REPO @R361@
-2 CALN 
-3 MEDI Other
-1 OBJE @O362@
-0 @S237@ SOUR
-1 QUAY 0
-1 TITL Recensement
-1 ABBR RecensementHAUTEFORT_1881_GERASTRE
-1 TYPE Deed
-1 REPO @R363@
-2 CALN 
-3 MEDI Other
-1 OBJE @O364@
-1 OBJE @O365@
-0 @S238@ SOUR
-1 QUAY 0
-1 TITL recensement
-1 ABBR RecensementHAUTEFORT_1886_GERASTRE
-1 TYPE Deed
-1 REPO @R366@
-2 CALN 
-3 MEDI Other
-1 OBJE @O367@
-0 @S239@ SOUR
-1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M122_XX-GERASTRE_Pierre_GALINAT_Marie_1853
-1 TYPE Deed
-1 REPO @R368@
-2 CALN 
-3 MEDI Other
-1 OBJE @O369@
-1 OBJE @O370@
-0 @S240@ SOUR
-1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M26_27_MONS_Pierre-COUDERT_Jeanne_USSAC_1893
-1 TYPE Deed
-1 REPO @R371@
-2 CALN 
-3 MEDI Other
-1 OBJE @O372@
-0 @S241@ SOUR
-1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M24-25_BRETOU_Jean-SAVOURET_Anne-SteAlvere_1894
-1 TYPE Deed
-1 REPO @R373@
-2 CALN 
-3 MEDI Other
-1 OBJE @O374@
-1 OBJE @O375@
-0 @S242@ SOUR
-1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M_GERASTRE_Edmond_LAMBERT_Françoise_1897
 1 TYPE Deed
 1 REPO @R376@
 2 CALN 
 3 MEDI Other
 1 OBJE @O377@
-1 OBJE @O378@
-0 @S243@ SOUR
+0 @S247@ SOUR
 1 QUAY 0
-1 TITL Acte deMariage
-1 ABBR MDemiSoeur61_LAMBERT_GERASTRE_Maire_HAUTEFORT_1876
+1 TITL Recensement
+1 ABBR RecensementHAUTEFORT_1881_GERASTRE
 1 TYPE Deed
-1 REPO @R379@
+1 REPO @R378@
 2 CALN 
 3 MEDI Other
+1 OBJE @O379@
 1 OBJE @O380@
-0 @S244@ SOUR
+0 @S248@ SOUR
 1 QUAY 0
-1 TITL Acte de Mariage
-1 ABBR M124_125-GOUGUET_Francois-MATHIEU_Marie_VieuxMareuil_1839
+1 TITL recensement
+1 ABBR RecensementHAUTEFORT_1886_GERASTRE
 1 TYPE Deed
 1 REPO @R381@
 2 CALN 
 3 MEDI Other
 1 OBJE @O382@
-1 OBJE @O383@
-0 @S245@ SOUR
+0 @S249@ SOUR
 1 QUAY 0
 1 TITL Acte de Mariage
-1 ABBR M250_251-MATHIEU_François-BEAU_Marie_VieuxMareuil_1816
+1 ABBR M122_XX-GERASTRE_Pierre_GALINAT_Marie_1853
 1 TYPE Deed
-1 REPO @R384@
+1 REPO @R383@
 2 CALN 
 3 MEDI Other
+1 OBJE @O384@
 1 OBJE @O385@
-1 OBJE @O386@
-0 @S246@ SOUR
+0 @S250@ SOUR
 1 QUAY 0
 1 TITL Acte de Mariage
-1 ABBR M52-53_MONS_Jean-BRAMON_Françoise-USSAC_1869
+1 ABBR M26_27_MONS_Pierre-COUDERT_Jeanne_USSAC_1893
 1 TYPE Deed
-1 REPO @R387@
+1 REPO @R386@
 2 CALN 
 3 MEDI Other
-1 OBJE @O388@
-0 @S247@ SOUR
+1 OBJE @O387@
+0 @S251@ SOUR
 1 QUAY 0
 1 TITL Acte de Mariage
-1 ABBR M104-105_MONS-Etienne_LATREILLE_Françoise_USSAC_1845
+1 ABBR M24-25_BRETOU_Jean-SAVOURET_Anne-SteAlvere_1894
 1 TYPE Deed
-1 REPO @R389@
+1 REPO @R388@
 2 CALN 
 3 MEDI Other
+1 OBJE @O389@
 1 OBJE @O390@
-0 @S248@ SOUR
+0 @S252@ SOUR
 1 QUAY 0
 1 TITL Acte de Mariage
-1 ABBR M50-51_SABOURET_Augustin-MURET_Marie-SainteAlvere_1866
+1 ABBR M_GERASTRE_Edmond_LAMBERT_Françoise_1897
 1 TYPE Deed
 1 REPO @R391@
 2 CALN 
 3 MEDI Other
 1 OBJE @O392@
 1 OBJE @O393@
-0 @S249@ SOUR
+0 @S253@ SOUR
+1 QUAY 0
+1 TITL Acte deMariage
+1 ABBR MDemiSoeur61_LAMBERT_GERASTRE_Maire_HAUTEFORT_1876
+1 TYPE Deed
+1 REPO @R394@
+2 CALN 
+3 MEDI Other
+1 OBJE @O395@
+0 @S254@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M124_125-GOUGUET_Francois-MATHIEU_Marie_VieuxMareuil_1839
+1 TYPE Deed
+1 REPO @R396@
+2 CALN 
+3 MEDI Other
+1 OBJE @O397@
+1 OBJE @O398@
+0 @S255@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M250_251-MATHIEU_François-BEAU_Marie_VieuxMareuil_1816
+1 TYPE Deed
+1 REPO @R399@
+2 CALN 
+3 MEDI Other
+1 OBJE @O400@
+1 OBJE @O401@
+0 @S256@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M52-53_MONS_Jean-BRAMON_Françoise-USSAC_1869
+1 TYPE Deed
+1 REPO @R402@
+2 CALN 
+3 MEDI Other
+1 OBJE @O403@
+0 @S257@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M104-105_MONS-Etienne_LATREILLE_Françoise_USSAC_1845
+1 TYPE Deed
+1 REPO @R404@
+2 CALN 
+3 MEDI Other
+1 OBJE @O405@
+0 @S258@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M50-51_SABOURET_Augustin-MURET_Marie-SainteAlvere_1866
+1 TYPE Deed
+1 REPO @R406@
+2 CALN 
+3 MEDI Other
+1 OBJE @O407@
+1 OBJE @O408@
+0 @S259@ SOUR
+1 QUAY 0
+1 TITL Acte de Mariage
+1 ABBR M102-XX_MOURET-Martin_DELCROS_Jeanne_LALINDE_1848
+1 TYPE Deed
+1 REPO @R409@
+2 CALN 
+3 MEDI Other
+1 OBJE @O410@
+0 @S260@ SOUR
 1 QUAY 0
 1 TITL Acte deMariage
 1 ABBR M54-55_COUDERT_Jean-COSTE_Jeanne_USSAC_1866
 1 TYPE Deed
-1 REPO @R394@
+1 REPO @R411@
 2 CALN 5
 3 MEDI Other
-1 OBJE @O395@
-0 @O251@ OBJE
+1 OBJE @O412@
+0 @O262@ OBJE
 1 FORM JPG
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N15_RAYNAL_OdetteSimone_1910.jpg
-0 @O253@ OBJE
+0 @O264@ OBJE
 1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N30_REYNAL_René_HAUTEFORT_1885-1.jpg
-0 @O254@ OBJE
+0 @O265@ OBJE
 1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N30_REYNAL_René_HAUTEFORT_1885-2.jpg
-0 @O256@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM30_RAYNAL_René.jpg
-0 @O258@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N31_GOUGUET_MarieLouise_BRIVE_1884.jpg
-0 @O259@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\Avenue Maillard Brive - LALEU- 1936.jpg
-0 @O260@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\Avenue Maillard Brive - LALEU- 1936-0.jpg
-0 @O262@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N62_GOUGUET_Francois_VieuxMareuil_1841-1.jpg
-0 @O263@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N62_GOUGUET_Francois_VieuxMareuil_1841-2.jpg
-0 @O265@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D62_GOUGUET_François_BRIVE_1904.jpg
 0 @O267@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N60_RAYNAL_Elie_BADEFOLS_1864.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM30_RAYNAL_René.jpg
 0 @O269@ OBJE
 1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM60_RAYNAL_Elie_BRIVE_1884-1.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N31_GOUGUET_MarieLouise_BRIVE_1884.jpg
 0 @O270@ OBJE
 1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM60_RAYNAL_Elie_BRIVE_1884-2.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\Avenue Maillard Brive - LALEU- 1936.jpg
 0 @O271@ OBJE
 1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM60_RAYNAL_Elie_BRIVE_1884-3.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\Avenue Maillard Brive - LALEU- 1936-0.jpg
 0 @O273@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N63_RICHETIN_CatherinePhilomene_Vierzon_1843.jpg
-0 @O275@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N62_GOUGUET_Francois_VieuxMareuil_1841-1.jpg
+0 @O274@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_REYNAL_EDMOND_1900.jpg
-0 @O277@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N62_GOUGUET_Francois_VieuxMareuil_1841-2.jpg
+0 @O276@ OBJE
 1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D122_GERASTRE_Pierre_HAUTEFORT_1889-1.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D62_GOUGUET_François_BRIVE_1904.jpg
 0 @O278@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D122_GERASTRE_Pierre_HAUTEFORT_1889-2.jpg
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N60_RAYNAL_Elie_BADEFOLS_1864.jpg
 0 @O280@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N61_GERASTRE_Marie_Hautefort_1863.jpg
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM60_RAYNAL_Elie_BRIVE_1884-1.jpg
+0 @O281@ OBJE
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM60_RAYNAL_Elie_BRIVE_1884-2.jpg
 0 @O282@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NSoeur61_GERASTRE_Marie_Hautefort_1873.jpg
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FM60_RAYNAL_Elie_BRIVE_1884-3.jpg
 0 @O284@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N25_SABOURET_Anne_SainteAlvere_1868.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N63_RICHETIN_CatherinePhilomene_Vierzon_1843.jpg
 0 @O286@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NFrere61_GERASTRE_EDMOND_1868.jpg
-0 @O287@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FMFrere61_GERASTRE_Edmond_1888.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_REYNAL_EDMOND_1900.jpg
+0 @O288@ OBJE
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D122_GERASTRE_Pierre_HAUTEFORT_1889-1.jpg
 0 @O289@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Marie_1894 - fille de Pauline -.jpg
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D122_GERASTRE_Pierre_HAUTEFORT_1889-2.jpg
 0 @O291@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_André_1900 - fils de Pauline -.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N61_GERASTRE_Marie_Hautefort_1863.jpg
 0 @O293@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Noemie_1892 - fille de Pauline -.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NSoeur61_GERASTRE_Marie_Hautefort_1873.jpg
 0 @O295@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Felix_1896 - fils de Pauline -.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N25_SABOURET_Anne_SainteAlvere_1868.jpg
 0 @O297@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Noemie_1898- fille de Pauline.jpg
-0 @O299@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NFrere61_GERASTRE_EDMOND_1868.jpg
+0 @O298@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D_RAYNAL_Noemie_1901- fille de pauline.jpg
-0 @O301@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FMFrere61_GERASTRE_Edmond_1888.jpg
+0 @O300@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_GERASTRE_Marie_CHERVEIX_1860-1.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Marie_1894 - fille de Pauline -.jpg
 0 @O302@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_GERASTRE_Marie_CHERVEIX_1860-2.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_André_1900 - fils de Pauline -.jpg
 0 @O304@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NDemiSoeur61_GERASTRE_Marie_1853-1.jpg
-0 @O305@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Noemie_1892 - fille de Pauline -.jpg
+0 @O306@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NDemiSoeur61_GERASTRE_Marie_1853-2.jpg
-0 @O307@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Felix_1896 - fils de Pauline -.jpg
+0 @O308@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N124_GOUGUET_François_VieuxMareuil_1817.jpg
-0 @O309@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_RAYNAL_Noemie_1898- fille de Pauline.jpg
+0 @O310@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D124_GOUGUET_Francois_VieuxMareuil_1893.jpg
-0 @O311@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D_RAYNAL_Noemie_1901- fille de pauline.jpg
+0 @O312@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N125_MATHIEU_Marie_VieuxMareuil_1819.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_GERASTRE_Marie_CHERVEIX_1860-1.jpg
 0 @O313@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D125_MATHIEU_Marie_VieuxMareuil_1879.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N_GERASTRE_Marie_CHERVEIX_1860-2.jpg
 0 @O315@ OBJE
 1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NDemiSoeur61_GERASTRE_Marie_1853-1.jpg
+0 @O316@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NDemiSoeur61_GERASTRE_Marie_1853-2.jpg
+0 @O318@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N124_GOUGUET_François_VieuxMareuil_1817.jpg
+0 @O320@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D124_GOUGUET_Francois_VieuxMareuil_1893.jpg
+0 @O322@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N125_MATHIEU_Marie_VieuxMareuil_1819.jpg
+0 @O324@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D125_MATHIEU_Marie_VieuxMareuil_1879.jpg
+0 @O326@ OBJE
+1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\NFrere31_GOUGUET_Georges_Vierzon_1870.jpg
-0 @O317@ OBJE
+0 @O328@ OBJE
 1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\FMFrere31_GOUGUET_Georges_1890.jpg
-0 @O319@ OBJE
+0 @O330@ OBJE
 1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D126_RICHETIN_FrançoisSylvain_Vierzon_1878.jpg
-0 @O321@ OBJE
+0 @O332@ OBJE
 1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D127_DESROSIERE_Rose_Vierzon_1878.jpg
-0 @O323@ OBJE
+0 @O334@ OBJE
 1 FORM JPG
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N250_MATHIEU_François_Mareuil_1788.jpg
-0 @O325@ OBJE
+0 @O336@ OBJE
 1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N251_BEAU_Marie_VieuxMareuil_1799.jpg
-0 @O327@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D500_MATHIEU_Jean_Mareuil_1798.jpg
-0 @O329@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D501_BOYER_Marie_Mareuil_1840.jpg
-0 @O331@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N52_MONS_Jean_Ussac_1847.jpg
-0 @O333@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D104_MONS_Etienne_Ussac_1853.jpg
-0 @O335@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N50_SABOURET_Augustin_Paunat_1845.jpg
-0 @O337@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D50_SABOURET_Auguste_SainteAvere_1900-1.jpg
 0 @O338@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D50_SABOURET_Auguste_SainteAvere_1900-2.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D500_MATHIEU_Jean_Mareuil_1798.jpg
 0 @O340@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N51_MURET_Marie_Baneuil_1839.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D501_BOYER_Marie_Mareuil_1840.jpg
 0 @O342@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D54_COUDERT_Jean_USSAC_1875.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N52_MONS_Jean_Ussac_1847.jpg
 0 @O344@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D55_COSTE_Jeanne_USSAC_1899.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D104_MONS_Etienne_Ussac_1853.jpg
 0 @O346@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D110_COSTE_antoine_Peyrat_1848.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N50_SABOURET_Augustin_Paunat_1845.jpg
 0 @O348@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M30-31_RAYNAL-René_GOUGUET-MarieLouise_BRIVE_1909-1.jpg
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D50_SABOURET_Auguste_SainteAvere_1900-1.jpg
 0 @O349@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M30-31_RAYNAL-René_GOUGUET-MarieLouise_BRIVE_1909-2.jpg
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D50_SABOURET_Auguste_SainteAvere_1900-2.jpg
 0 @O351@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M62_63-GOUGUET_François-RICHETIN_Philomene_1867.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N51_MURET_Marie_Baneuil_1839.jpg
 0 @O353@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M60_61-RAYNAL_Elie-GERASTRE_Marie_Hautefort_1883.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\N102-MOURET_Marty-Lalinde-1806.jpg
 0 @O355@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M120-121-RAYNAL_Jean-MALOUBIER-Catherine_Badefols_1856.jpg
-0 @O356@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D103_LAFON_Marie_Lalinde_1846.jpg
+0 @O357@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M120-121-RAYNAL_Jean-MALOUBIER-Catherine_Badefols_1856-2.jpg
-0 @O358@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D54_COUDERT_Jean_USSAC_1875.jpg
+0 @O359@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D55_COSTE_Jeanne_USSAC_1899.jpg
+0 @O361@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\D110_COSTE_antoine_Peyrat_1848.jpg
+0 @O363@ OBJE
 1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementBADEFOLS_1876_REYNAL.jpg
-0 @O360@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1866_GERASTRE.jpg
-0 @O362@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1872_GERASTRE.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M30-31_RAYNAL-René_GOUGUET-MarieLouise_BRIVE_1909-1.jpg
 0 @O364@ OBJE
 1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1881_GERASTRE-1.jpg
-0 @O365@ OBJE
-1 FORM JPG
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1881_GERASTRE-2.jpg
-0 @O367@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M30-31_RAYNAL-René_GOUGUET-MarieLouise_BRIVE_1909-2.jpg
+0 @O366@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1886_GERASTRE.jpg
-0 @O369@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M62_63-GOUGUET_François-RICHETIN_Philomene_1867.jpg
+0 @O368@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M122_XX-GERASTRE_Pierre_GALINAT_Marie_1853-1.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M60_61-RAYNAL_Elie-GERASTRE_Marie_Hautefort_1883.jpg
 0 @O370@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M122_XX-GERASTRE_Pierre_GALINAT_Marie_1853-2.jpg
-0 @O372@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M120-121-RAYNAL_Jean-MALOUBIER-Catherine_Badefols_1856.jpg
+0 @O371@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M26_27_MONS_Pierre-COUDERT_Jeanne_USSAC_1893.jpg
-0 @O374@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M24-25_BRETOU_Jean-SAVOURET_Anne-SteAlvere_1894-1.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M120-121-RAYNAL_Jean-MALOUBIER-Catherine_Badefols_1856-2.jpg
+0 @O373@ OBJE
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementBADEFOLS_1876_REYNAL.jpg
 0 @O375@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M24-25_BRETOU_Jean-SAVOURET_Anne-SteAlvere_1894-2.jpg
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1866_GERASTRE.jpg
 0 @O377@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M_GERASTRE_Edmond_LAMBERT_Françoise_1897-1.jpg
-0 @O378@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M_GERASTRE_Edmond_LAMBERT_Françoise_1897-2.jpg
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1872_GERASTRE.jpg
+0 @O379@ OBJE
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1881_GERASTRE-1.jpg
 0 @O380@ OBJE
-1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\MDemiSoeur61_LAMBERT_GERASTRE_Maire_HAUTEFORT_1876.jpg
+1 FORM JPG
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1881_GERASTRE-2.jpg
 0 @O382@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M124_125-GOUGUET_Francois-MATHIEU_Marie_VieuxMareuil_1839-2.jpg
-0 @O383@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\RecensementHAUTEFORT_1886_GERASTRE.jpg
+0 @O384@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M124_125-GOUGUET_Francois-MATHIEU_Marie_VieuxMareuil_1839-1.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M122_XX-GERASTRE_Pierre_GALINAT_Marie_1853-1.jpg
 0 @O385@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M250_251-MATHIEU_François-BEAU_Marie_VieuxMareuil_1816-2.jpg
-0 @O386@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M122_XX-GERASTRE_Pierre_GALINAT_Marie_1853-2.jpg
+0 @O387@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M250_251-MATHIEU_François-BEAU_Marie_VieuxMareuil_1816-1.jpg
-0 @O388@ OBJE
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M26_27_MONS_Pierre-COUDERT_Jeanne_USSAC_1893.jpg
+0 @O389@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M52-53_MONS_Jean-BRAMON_Françoise-USSAC_1869.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M24-25_BRETOU_Jean-SAVOURET_Anne-SteAlvere_1894-1.jpg
 0 @O390@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M104-105_MONS-Etienne_LATREILLE_Françoise_USSAC_1845.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M24-25_BRETOU_Jean-SAVOURET_Anne-SteAlvere_1894-2.jpg
 0 @O392@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M50-51_SABOURET_Augustin-MURET_Marie-SainteAlvere_1866-1.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M_GERASTRE_Edmond_LAMBERT_Françoise_1897-1.jpg
 0 @O393@ OBJE
 1 FORM jpg
-1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M50-51_SABOURET_Augustin-MURET_Marie-SainteAlvere_1866-2.jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M_GERASTRE_Edmond_LAMBERT_Françoise_1897-2.jpg
 0 @O395@ OBJE
 1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\MDemiSoeur61_LAMBERT_GERASTRE_Maire_HAUTEFORT_1876.jpg
+0 @O397@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M124_125-GOUGUET_Francois-MATHIEU_Marie_VieuxMareuil_1839-2.jpg
+0 @O398@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M124_125-GOUGUET_Francois-MATHIEU_Marie_VieuxMareuil_1839-1.jpg
+0 @O400@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M250_251-MATHIEU_François-BEAU_Marie_VieuxMareuil_1816-2.jpg
+0 @O401@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M250_251-MATHIEU_François-BEAU_Marie_VieuxMareuil_1816-1.jpg
+0 @O403@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M52-53_MONS_Jean-BRAMON_Françoise-USSAC_1869.jpg
+0 @O405@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M104-105_MONS-Etienne_LATREILLE_Françoise_USSAC_1845.jpg
+0 @O407@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M50-51_SABOURET_Augustin-MURET_Marie-SainteAlvere_1866-1.jpg
+0 @O408@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M50-51_SABOURET_Augustin-MURET_Marie-SainteAlvere_1866-2.jpg
+0 @O410@ OBJE
+1 FORM jpg
+1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M102-XX_MOURET-Martin_DELCROS_Jeanne_LALINDE_1848.jpg
+0 @O412@ OBJE
+1 FORM jpg
 1 FILE C:\Genealogie\Famille BRETOU.hmw\Famille BRETOU_export-Medias\M54-55_COUDERT_Jean-COSTE_Jeanne_USSAC_1866.jpg
-0 @R250@ REPO
-1 NAME AD Brive
-0 @R252@ REPO
-1 NAME AD 24
-0 @R255@ REPO
-1 NAME AD 24
-0 @R257@ REPO
-1 NAME AD 19
 0 @R261@ REPO
+1 NAME AD Brive
+0 @R263@ REPO
 1 NAME AD 24
-0 @R264@ REPO
-1 NAME AD 19
 0 @R266@ REPO
 1 NAME AD 24
 0 @R268@ REPO
 1 NAME AD 19
 0 @R272@ REPO
-1 NAME AD 18
-0 @R274@ REPO
 1 NAME AD 24
-0 @R276@ REPO
+0 @R275@ REPO
+1 NAME AD 19
+0 @R277@ REPO
 1 NAME AD 24
 0 @R279@ REPO
-1 NAME AD 24
-0 @R281@ REPO
-1 NAME AD 24
+1 NAME AD 19
 0 @R283@ REPO
-1 NAME AD 24
+1 NAME AD 18
 0 @R285@ REPO
 1 NAME AD 24
-0 @R288@ REPO
+0 @R287@ REPO
 1 NAME AD 24
 0 @R290@ REPO
 1 NAME AD 24
@@ -4221,43 +4380,43 @@
 1 NAME AD 24
 0 @R296@ REPO
 1 NAME AD 24
-0 @R298@ REPO
+0 @R299@ REPO
 1 NAME AD 24
-0 @R300@ REPO
+0 @R301@ REPO
 1 NAME AD 24
 0 @R303@ REPO
 1 NAME AD 24
-0 @R306@ REPO
+0 @R305@ REPO
 1 NAME AD 24
-0 @R308@ REPO
+0 @R307@ REPO
 1 NAME AD 24
-0 @R310@ REPO
+0 @R309@ REPO
 1 NAME AD 24
-0 @R312@ REPO
+0 @R311@ REPO
 1 NAME AD 24
 0 @R314@ REPO
+1 NAME AD 24
+0 @R317@ REPO
+1 NAME AD 24
+0 @R319@ REPO
+1 NAME AD 24
+0 @R321@ REPO
+1 NAME AD 24
+0 @R323@ REPO
+1 NAME AD 24
+0 @R325@ REPO
 1 NAME AD 18
-0 @R316@ REPO
+0 @R327@ REPO
 1 NAME Généanet
-0 @R318@ REPO
+0 @R329@ REPO
 1 NAME AD 18
-0 @R320@ REPO
+0 @R331@ REPO
 1 NAME AD 18
-0 @R322@ REPO
+0 @R333@ REPO
 1 NAME AD 24
-0 @R324@ REPO
+0 @R335@ REPO
 1 NAME AD 24
-0 @R326@ REPO
-1 NAME AD 24
-0 @R328@ REPO
-1 NAME AD 24
-0 @R330@ REPO
-1 NAME AD 19
-0 @R332@ REPO
-1 NAME AD 19
-0 @R334@ REPO
-1 NAME AD 24
-0 @R336@ REPO
+0 @R337@ REPO
 1 NAME AD 24
 0 @R339@ REPO
 1 NAME AD 24
@@ -4266,45 +4425,61 @@
 0 @R343@ REPO
 1 NAME AD 19
 0 @R345@ REPO
-1 NAME AD 19
+1 NAME AD 24
 0 @R347@ REPO
-1 NAME AD Brive
+1 NAME AD 24
 0 @R350@ REPO
-1 NAME AD 18
+1 NAME AD 24
 0 @R352@ REPO
 1 NAME AD 24
 0 @R354@ REPO
 1 NAME AD 24
-0 @R357@ REPO
-1 NAME AD 24
-0 @R359@ REPO
-1 NAME AD 24
-0 @R361@ REPO
-1 NAME AD 24
-0 @R363@ REPO
-1 NAME AD 24
-0 @R366@ REPO
-1 NAME AD 24
-0 @R368@ REPO
-1 NAME AD 24
-0 @R371@ REPO
+0 @R356@ REPO
 1 NAME AD 19
-0 @R373@ REPO
+0 @R358@ REPO
+1 NAME AD 19
+0 @R360@ REPO
+1 NAME AD 19
+0 @R362@ REPO
+1 NAME AD Brive
+0 @R365@ REPO
+1 NAME AD 18
+0 @R367@ REPO
+1 NAME AD 24
+0 @R369@ REPO
+1 NAME AD 24
+0 @R372@ REPO
+1 NAME AD 24
+0 @R374@ REPO
 1 NAME AD 24
 0 @R376@ REPO
 1 NAME AD 24
-0 @R379@ REPO
+0 @R378@ REPO
 1 NAME AD 24
 0 @R381@ REPO
 1 NAME AD 24
-0 @R384@ REPO
+0 @R383@ REPO
 1 NAME AD 24
-0 @R387@ REPO
+0 @R386@ REPO
 1 NAME AD 19
-0 @R389@ REPO
-1 NAME AD 19
+0 @R388@ REPO
+1 NAME AD 24
 0 @R391@ REPO
 1 NAME AD 24
 0 @R394@ REPO
+1 NAME AD 24
+0 @R396@ REPO
+1 NAME AD 24
+0 @R399@ REPO
+1 NAME AD 24
+0 @R402@ REPO
+1 NAME AD 19
+0 @R404@ REPO
+1 NAME AD 19
+0 @R406@ REPO
+1 NAME AD 24
+0 @R409@ REPO
+1 NAME AD 24
+0 @R411@ REPO
 1 NAME AD 19
 0 TRLR 
